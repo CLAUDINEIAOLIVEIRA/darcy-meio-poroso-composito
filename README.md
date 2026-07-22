@@ -1,6 +1,6 @@
 # Escoamento de Darcy em Meio Poroso Compósito Unidimensional
 
-Implementação computacional em Python do **Projeto 4** — comparação entre Método de Diferenças Finitas (MDF), Método de Elementos Finitos (MEF), Homogeneização Assintótica e Redes Neurais com Física Incorporada (PINNs) para o problema de escoamento de Darcy 1D em um meio poroso compósito periódico.
+Implementação computacional em Python — comparação entre Método de Diferenças Finitas (MDF), Método de Elementos Finitos (MEF), Homogeneização Assintótica e Redes Neurais com Física Incorporada (PINNs) para o problema de escoamento de Darcy 1D em um meio poroso compósito periódico.
 
 Este repositório acompanha o artigo submetido à revista **TCAM** (UFF), na disciplina de Métodos Numéricos para Equações Diferenciais Parciais, sob orientação do **Prof. Reinaldo Rodríguez Ramos**.
 
