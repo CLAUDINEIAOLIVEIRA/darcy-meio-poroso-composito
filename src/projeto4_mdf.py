@@ -1,6 +1,6 @@
 # ================================================================
 # PROJETO 4 — Escoamento em Meio Poroso Compósito 1D
-# Método de Diferenças Finitas (MDF) — VERSÃO CORRIGIDA (v2)
+# Método de Diferenças Finitas (MDF) 
 # ================================================================
 # Equação (Eq. 64-65 do enunciado):
 #   v_eps(x) = -k_eps(x) [ dp/dx(x) + f(x) ]
@@ -168,8 +168,7 @@ print(f"  (uma diferença grande confirma que são fisicamente "
       f"problemas distintos, como o Paulo apontou)")
 
 # ═══════════════════════════════════════════════════════════════
-# Regenera Figura 4 (caso com força externa) com a formulação
-# corrigida, para comparação visual com a versão antiga
+# Regenera Figura 4 (caso com força externa) 
 # ═══════════════════════════════════════════════════════════════
 fig, axes = plt.subplots(1, 2, figsize=(12, 5))
 
