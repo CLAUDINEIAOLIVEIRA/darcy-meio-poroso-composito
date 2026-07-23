@@ -1,6 +1,6 @@
 # ================================================================
 # PROJETO 4 — Escoamento em Meio Poroso Compósito 1D
-# Método de Elementos Finitos (MEF) — VERSÃO CORRIGIDA (v2)
+# Método de Elementos Finitos (MEF) 
 # ================================================================
 # Formulação fraca com f(x) dentro do fluxo (Eq. 64):
 #   v = -k(p'+f),  -d/dx[k(p'+f)] = s(x)
@@ -171,7 +171,7 @@ print("\n✓ Se as diferenças MDF-vs-MEF acima forem pequenas (~1e-2 a "
       "consistente entre os dois métodos.")
 
 # ═══════════════════════════════════════════════════════════════
-# Figura 7 (v2) — MDF vs MEF com força externa corrigida
+# Figura 7 (v2) — MDF vs MEF com força externa 
 # ═══════════════════════════════════════════════════════════════
 import os
 os.makedirs('outputs', exist_ok=True)
